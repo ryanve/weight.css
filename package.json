@@ -1,0 +1,25 @@
+{
+  "name": "weight.css",
+  "version": "0.1.0",
+  "description": "CSS font-weight atomic classes",
+  "author": "Ryan Van Etten",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanve/weight.css.git"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "font-weight",
+    "functional-css",
+    "functional",
+    "weights",
+    "atomic",
+    "fonts"
+  ],
+  "bugs": {
+    "url": "https://github.com/ryanve/weight.css/issues"
+  },
+  "homepage": "https://github.com/ryanve/weight.css"
+}
